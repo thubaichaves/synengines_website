@@ -6,8 +6,8 @@ weight = 50
 background = "light" # can influence the text color
 particles = true
 
-title = "Syna Theme"
-subtitle = "Showcase your next project"
+title = "SynaEngines"
+subtitle = "Engineering for Synergy"
 
 [header]
   image = "header.jpg"
@@ -18,17 +18,18 @@ subtitle = "Showcase your next project"
   #height = "150px" # optional - will default to image height
 
 [[buttons]]
-  text = "Button"
+  text = "ConvFlows"
   url = "#"
   color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
-  text = "Download"
-  url = "https://github.com/okkur/syna/releases"
+  text = "SumFlows"
+  url = "#"
+  #url = "https://github.com/okkur/syna/releases"
   color = "primary"
 
 [[buttons]]
-  text = "Button"
+  text = "About Us"
   url = "#"
   color = "success"
 +++
